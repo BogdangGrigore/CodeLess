@@ -1,14 +1,14 @@
 const CACHE_NAME = 'codeless-cache-v1';
 const urlsToCache = [
   '/',
+  '/index.html',
   '/style.css',
   '/script.js',
   '/assets/bot.svg',
   '/assets/user.svg',
   '/assets/send.svg',
-  '/assets/cat.png',
-  '/assets/icon-192.png',
-  '/assets/icon-512.png'
+  '/assets/cats.png',
+  '/assets/cropped.jpeg'
 ];
 
 self.addEventListener('install', event => {

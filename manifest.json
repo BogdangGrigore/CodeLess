@@ -2,21 +2,22 @@
     "name": "CodeLess Chat",
     "short_name": "CodeLess",
     "icons": [
-        {
-            "src": "client/assets/cropped.jpg",
-            "sizes": "192x192",
-            "type": "image/jpg",
-            "purpose": "any maskable"
-          },
-          {
-            "src": "client/assets/cats.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-          }
+      {
+        "src": "assets/cropped.jpeg",
+        "sizes": "192x192",
+        "type": "image/jpeg",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "assets/cats.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
     ],
     "start_url": ".",
-    "background_color": "#5436DA",
+    "background_color": "#343541",
     "display": "standalone",
     "theme_color": "#343541"
   }
+  
