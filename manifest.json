@@ -3,20 +3,20 @@
     "short_name": "CodeLess",
     "icons": [
         {
-            "src": "assets/cropped.jpg",
+            "src": "client/assets/cropped.jpg",
             "sizes": "192x192",
             "type": "image/jpg",
             "purpose": "any maskable"
           },
           {
-            "src": "assets/cats.png",
+            "src": "client/assets/cats.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
           }
     ],
     "start_url": ".",
-    "background_color": "#343541",
+    "background_color": "#5436DA",
     "display": "standalone",
     "theme_color": "#343541"
   }
